@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Photographer Stephen Butkus]]></title>
         <description><![CDATA[Photographer Stephen Butkus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/stephen-butkus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 15:29:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 15:29:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/stephen-butkus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedf3db02e7-daf4-414d-abe7-5b07a2d5fcad/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2214bced-a884-4d29-ba68-8fb5b0ff19bc.jpg">]]></description>
+            <link>https://thegrid.ai/stephen-butkus/d4b2a01c-3f57-47c0-b7ed-a761fb9ad438/index.html</link>
+            <guid isPermaLink="false">d4b2a01c-3f57-47c0-b7ed-a761fb9ad438</guid>
+            <pubDate>Mon, 30 Nov 2015 15:28:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/stephen-butkus/f3db02e7-daf4-414d-abe7-5b07a2d5fcad/index.html</link>
             <guid isPermaLink="false">f3db02e7-daf4-414d-abe7-5b07a2d5fcad</guid>
             <pubDate>Mon, 30 Nov 2015 15:28:53 GMT</pubDate>
         </item>
