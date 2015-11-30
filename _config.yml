@@ -1,6 +1,6 @@
 name: Stephen Butkus
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.75837
 typography_spectrum: 0.49681
 title: Photographer Stephen Butkus
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.558750188909471
+  brandStrength: 0
   lightness: 0.12421550322324038
-  saturation: 0.7819526731036603
+  saturation: 0.25
   rhythmicContrast: 0.6417846165131778
 purpose: []
