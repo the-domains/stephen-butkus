@@ -1,0 +1,28 @@
+name: Stephen Butkus
+favicon: null
+layout_spectrum: 0.730405246373266
+typography_spectrum: 0.5465179122984409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.558750188909471
+  lightness: 0.12421550322324038
+  saturation: 0.7819526731036603
+  rhythmicContrast: 0.6417846165131778
+purpose: []
